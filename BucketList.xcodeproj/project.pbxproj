@@ -16,6 +16,7 @@
 		4B974F732856C85E00400764 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B974F722856C85E00400764 /* Result.swift */; };
 		4B974F752856D46C00400764 /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B974F742856D46C00400764 /* ContentView-ViewModel.swift */; };
 		4B974F772856D69C00400764 /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B974F762856D69C00400764 /* FileManager-DocumentsDirectory.swift */; };
+		4B974F792856E08C00400764 /* EditView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B974F782856E08C00400764 /* EditView-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		4B974F722856C85E00400764 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		4B974F742856D46C00400764 /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
 		4B974F762856D69C00400764 /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
+		4B974F782856E08C00400764 /* EditView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EditView-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		4B3FF9072855A2DC004610B2 /* BucketList */ = {
 			isa = PBXGroup;
 			children = (
+				4B974F782856E08C00400764 /* EditView-ViewModel.swift */,
 				4B3FF9082855A2DC004610B2 /* BucketListApp.swift */,
 				4B3FF90A2855A2DC004610B2 /* ContentView.swift */,
 				4B974F722856C85E00400764 /* Result.swift */,
@@ -157,6 +160,7 @@
 				4B974F752856D46C00400764 /* ContentView-ViewModel.swift in Sources */,
 				4B974F732856C85E00400764 /* Result.swift in Sources */,
 				4B974F6F2856B91800400764 /* Location.swift in Sources */,
+				4B974F792856E08C00400764 /* EditView-ViewModel.swift in Sources */,
 				4B974F712856C43D00400764 /* EditView.swift in Sources */,
 				4B3FF9092855A2DC004610B2 /* BucketListApp.swift in Sources */,
 			);
